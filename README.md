@@ -12,7 +12,7 @@ Welcome to the master class of flutter and firebase in which we will create a ch
  
 
 
-![App UI](gitimages/chatapp flutter firebase (1).png)
+![App UI](gitimages/chatappflutter.png)
 
 Happy Learning 👍 
 
