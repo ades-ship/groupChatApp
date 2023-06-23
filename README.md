@@ -14,7 +14,7 @@ Welcome to the master class of flutter and firebase in which we will create a ch
 
 ![App UI](gitimages/chatapp.png)
 
-Happy Learning 👍
+Happy Learning 👍 
 
 <br>
 Show some :heart: and star the repo to support the project
