@@ -10,7 +10,7 @@ Welcome to the master class of flutter and firebase in which we will create a ch
  2. Now run the app 
  
  
-
+ 
 
 ![App UI](gitimages/chatappflutter.png)
 
